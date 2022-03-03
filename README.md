@@ -1,7 +1,7 @@
 ### Hi there 👋, Welcome to my Profile
 
 [![Brix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brix101&theme=material-palenight&show_icons=true)]
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&layout=compact)] -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&layout=compact)]
 
 <!--
 **Brix101/Brix101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
