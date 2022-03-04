@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Web And App Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
+I'm a passionate Web And App Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
 - 📫 How to reach me **brixterporras@gmail.com**
 
@@ -15,9 +15,11 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>    
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/></a>
+    <a href="https://kotlinlang.org/"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
