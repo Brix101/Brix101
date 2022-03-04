@@ -8,7 +8,7 @@ I'm a passionate Web And App Developer and I am interested in developing new thi
 
 - 📫 How to reach me **brixterporras@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I Play Games,and Read Manga's.**
 
 - My website -
 
