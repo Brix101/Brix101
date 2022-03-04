@@ -39,7 +39,7 @@ I'm a passionate Web And App Developer and I am interested in developing new thi
 
 ## ✨ Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&layout=compact&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
