@@ -39,16 +39,16 @@ I'm a passionate Web And App Developer and I am interested in developing new thi
 
 ## 📊 My Github Stats
 
-[![Brix101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brix101&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Brix101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brix101&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/Brix101/github-readme-stats)
 
 ## ✨ Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&layout=compact&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&layout=compact&hide=html,css,scss)](https://github.com/Brix101/github-readme-stats)
 
 <br/>
 <br/>
 
-[![Brix101's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brix101&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Brix101's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brix101&theme=react-dark)](https://github.com/Brix101/github-readme-activity-graph)
 
 <!--
 **Brix101/Brix101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
