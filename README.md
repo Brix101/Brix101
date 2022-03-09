@@ -1,13 +1,10 @@
-### <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to My Github</h1>
+### <h1 align="left">Hello , Welcome to My Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 ## 🙋‍♂️ About Me
 
 I'm Brixter Porras and I'm a Web And App Developer. I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
-- 📫 How to reach me **brixterporras@gmail.com**
+/*- 📫 How to reach me **brixterporras@gmail.com** */
 
-- ⚡ Fun fact **I Play Games,and Read Manga's.**
-
-- My website -
 
 ## 🚀 Languages and Tools:
 
