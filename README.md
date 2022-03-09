@@ -1,10 +1,7 @@
-### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Brixter Porras</h1>
-
-<h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
-
+### <h1 align="right">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to My Github</h1>
 ## 🙋‍♂️ About Me
 
-I'm a passionate Web And App Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
+I'm Brixter Porras and I'm a Web And App Developer. I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
 - 📫 How to reach me **brixterporras@gmail.com**
 
@@ -39,16 +36,16 @@ I'm a passionate Web And App Developer and I am interested in developing new thi
 
 ## 📊 My Github Stats
 
-[![Brix101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brix101&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/Brix101/github-readme-stats)
+[![Brix101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brix101&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨ Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&layout=compact&hide=html,css,scss)](https://github.com/Brix101/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&layout=compact&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
 
-[![Brix101's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brix101&theme=react-dark)](https://github.com/Brix101/github-readme-activity-graph)
+[![Brix101's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brix101&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **Brix101/Brix101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
