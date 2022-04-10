@@ -37,7 +37,7 @@ I'm Brixter Porras and I'm a Web And App Developer. I am interested in developin
 
 ## ✨ Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&layout=compact&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
