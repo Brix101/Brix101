@@ -43,7 +43,7 @@ I'm Brixter Porras and I'm a Web And App Developer. I am interested in developin
 <br/>
 <br/>
 
-[![Brix101's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brix101&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Brix101's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brix101&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <!--
 **Brix101/Brix101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
