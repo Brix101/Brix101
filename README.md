@@ -1,4 +1,4 @@
-### <h1 align="left">Hello , Welcome to My Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+### <h1 align="left">Hello , Welcome to My Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 ## 🙋‍♂️ About Me
 
 I'm Brixter Porras and I'm a Web And App Developer. I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
