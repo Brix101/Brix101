@@ -15,6 +15,7 @@ I'm Brixter Porras and I'm a Web And App Developer. I am interested in developin
     <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a> -->
     <a href="https://www.python.org//" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> </a>  
 <!--     <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/></a> -->
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
