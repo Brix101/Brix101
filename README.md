@@ -35,8 +35,8 @@ I'm Brixter Porras and I'm a Web And App Developer. I am interested in developin
 
 ## 📊 My Github Stats
 
-[![Brix101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brix101&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Brix101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brix101&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 ## ✨ Top Languages Card
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
