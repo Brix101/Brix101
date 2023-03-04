@@ -1,7 +1,7 @@
 ### <h1 align="left">Hello , Welcome to My Github Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 ## 🙋‍♂️ About Me
 
-I'm Brixter Porras and I'm a Web And App Developer. I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
+I'm Brixter Porras and I'm a Software Developer. I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
 <!--  - 📫 How to reach me **brixterporras@gmail.com** -->
 
@@ -34,12 +34,17 @@ I'm Brixter Porras and I'm a Web And App Developer. I am interested in developin
 <br/>
 
 ## 📊 My Github Stats
-
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brix101&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 <!-- [![Brix101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brix101&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  -->
-## ✨ Top Languages Card
+<!-- ## ✨ Top Languages Card -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br/>
 <br/>
