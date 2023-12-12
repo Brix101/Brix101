@@ -1,5 +1,6 @@
 ### <h1 align="left">Hello , Welcome to My Github Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me <img src="https://komarev.com/ghpvc/?username=angelofallars&color=45707a&style=flat-square" alt="GitHub page views">
+
 
 I'm Brixter Porras a software developer in PH. I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
