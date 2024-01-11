@@ -7,7 +7,7 @@ I'm Brixter Porras a software developer in PH. I am interested in developing new
 
 <!--  - 📫 How to reach me **brixterporras@gmail.com** -->
 
-
+<!--
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -39,14 +39,15 @@ I'm Brixter Porras a software developer in PH. I am interested in developing new
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brix101&hide=html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+-->
 <!-- &langs_count=3 -->
 <!-- <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brix101&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brix's GitHub Stats" />
-</a> -->
+</a> 
 
 <br/>
 <br/>
-
+-->
 <!--[![Brix101's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brix101&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <!--
