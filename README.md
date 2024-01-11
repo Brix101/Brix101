@@ -3,7 +3,7 @@
 <!--<img src="https://komarev.com/ghpvc/?username=Brix101&color=45707a&style=flat-square" alt="GitHub page views">-->
 
 
-I'm Brixter Porras a software developer in PH. I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
+I'm Brixter Porras a software developer and musician based in the Philippines. I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
 <!--  - 📫 How to reach me **brixterporras@gmail.com** -->
 
